@@ -1,0 +1,4 @@
+enter the lenght34
+enter the width30
+area of the rectangle is: 1020
+perimeter of the rectangle is : 128
